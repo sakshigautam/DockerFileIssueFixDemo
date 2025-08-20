@@ -1,0 +1,6 @@
+# Ignore build output and junk
+target
+.git
+.gitignore
+.DS_Store
+*.log
