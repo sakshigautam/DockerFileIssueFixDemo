@@ -1,3 +1,4 @@
+#Base image
 FROM ubuntu:latest
 
 # install java and maven (missing apt-get update; will fail)
